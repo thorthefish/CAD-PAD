@@ -10,7 +10,7 @@ Description: A macropad with all of the shortcuts that I need for my CAD work.
 Created: 6-6-2025
 ```
 ----
-# 6-6-2025 - 6 hours
+# 6-6-2025 - 5 hours
 
 ## Planninmg
 
@@ -68,3 +68,21 @@ I cadded the case in Onshape, which works the best on linux for me, and I gave i
 The base PCB also came togeather quite well once I got the parts on it, and it was super easy to model everything to spec around it.
 
 ![image](https://github.com/user-attachments/assets/0895efd6-6f5f-49f2-99ff-1468760a5a98)
+
+----
+
+# 7-6-2025 - 3 Hours
+
+## Firmware
+
+I decided to use KMK for firmware because I could find the right documentation on it, esspecialy for macropads, it was much easier to find information how to just set it up, but the overall code portion did end up being more complicated due to the less technical nature of the firmware. Despite all this I only struggled on finding the way to switch between the different modes of my macropad, whilst only using one key to cycle through the options. (Thanks to Ben Park on slack for the help)
+
+There isnt much more to talk about on this one, it was juct going through and making a keymap for each list of keys, making a macro function as needed, then adding in support for the neopixels.
+
+----
+
+# 8-6-2025 - 1 Hour
+
+Got the Gerbers.zip file into the production folder, and worked on readme.
+
+I ended up having the key just always cycle to the next layer for whatever layer it was on 
