@@ -1,5 +1,5 @@
 # CAD-PAD
-A Hackpad for CAD, with 3shortcuts for all my most used tools.
+A Hackpad for CAD, with shortcuts for all my most used tools. (Designed in Onshape, but can work with anything really)
 
 
 ![image](https://github.com/user-attachments/assets/02ba9b46-28ac-4d3d-a823-dc35fc1a67e1)
